@@ -1,0 +1,8 @@
+[binaries]
+c = 'clang'
+cpp = 'clang++'
+ar = 'llvm-ar'
+strip = 'llvm-strip'
+
+[properties]
+needs_exe_wrapper = true
